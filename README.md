@@ -1,5 +1,3 @@
-Here's a README draft for your Python project:
-
 ---
 
 # Twitter Sentiment Analysis
